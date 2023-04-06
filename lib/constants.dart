@@ -1,1 +1,1 @@
-const String host = "http://192.168.137.1:6001";
+const String host = "http://<ip_address>";
